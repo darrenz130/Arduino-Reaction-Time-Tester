@@ -14,7 +14,6 @@ This project is an Arduino-based reaction time testing system designed to measur
 The initial version of the circuit was built and tested on a breadboard to validate functionality. This phase focused on verifying LED triggering, button input detection, and reaction timing accuracy.
 </p>
 
-<!-- IMAGE: breadboard.jpg -->
 
 <h3>2. Firmware Development</h3>
 
@@ -22,7 +21,6 @@ The initial version of the circuit was built and tested on a breadboard to valid
 The system was programmed in C++ using the Arduino IDE. The code handles randomized LED stimulus timing, button press detection, and calculates reaction time in milliseconds using precise timing functions.
 </p>
 
-<!-- OPTIONAL: firmware explanation or snippet image -->
 
 <h3>3. Schematic Design</h3>
 
@@ -30,7 +28,6 @@ The system was programmed in C++ using the Arduino IDE. The code handles randomi
 A full circuit schematic was created in KiCad to define the electrical connections between the Arduino, LEDs, button, and display.
 </p>
 
-<!-- IMAGE: schematic.png -->
 
 <h3>4. PCB Design</h3>
 
@@ -38,15 +35,9 @@ A full circuit schematic was created in KiCad to define the electrical connectio
 A custom PCB shield was designed in KiCad to replace the breadboard setup. This reduced wiring complexity, improved reliability, and created a compact final hardware design.
 </p>
 
-<!-- IMAGE: pcb_layout.png + pcb_3d.png -->
-
-<h3>5. Final Testing</h3>
-
 <p>
-The assembled PCB was tested to ensure correct timing accuracy, stable input detection, and consistent system performance.
+Custom footprints were created for selected components where required, using manufacturer datasheets to ensure correct pad dimensions and mechanical fit.
 </p>
-
-<!-- IMAGE or VIDEO: final_board.jpg or demo video -->
 
 <h2>Languages and Tools Used</h2>
 
