@@ -67,7 +67,9 @@ Custom footprints were created where required to match exact component dimension
 <p>
 A short demonstration of the system in action:
 <br>
-(Insert YouTube link or video here)
+<a href="https://youtu.be/OleBV9ndicw?si=QzNY1ve2LQjAxAnz">
+Watch Demo Video
+</a>
 </p>
 
 <h2>Key Features</h2>
