@@ -28,11 +28,14 @@ The system was programmed in C++ using the Arduino IDE. The code handles randomi
 A full circuit schematic was created in KiCad to define the electrical connections between the Arduino, LEDs, button, and display.
 </p>
 
-
 <h3>4. PCB Design</h3>
 
 <p>
 A custom PCB shield was designed in KiCad to replace the breadboard setup. This reduced wiring complexity, improved reliability, and created a compact final hardware design.
+</p>
+
+<p>
+Custom footprints were created where required to match exact component dimensions. This included a potentiometer footprint due to the lack of an existing library part with the correct physical spacing, as well as a custom footprint for the display LED to ensure proper fit and alignment.
 </p>
 
 <p>
