@@ -58,7 +58,6 @@ Custom footprints were created for selected components where required, using man
   <li><b>/firmware</b> → Arduino C++ code</li>
   <li><b>/pcb</b> → KiCad schematic and PCB files</li>
   <li><b>/images</b> → Project screenshots and renders</li>
-  <li><b>/video</b> → Demo of working system</li>
 </ul>
 
 <h2>Demo</h2>
