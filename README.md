@@ -28,6 +28,8 @@ The system was programmed in C++ using the Arduino IDE. The code handles randomi
 A full circuit schematic was created in KiCad to define the electrical connections between the Arduino, LEDs, button, and display.
 </p>
 
+<img src="./images/PCB_Schematic.png" width="500">
+
 <h3>4. PCB Design</h3>
 
 <p>
@@ -38,9 +40,9 @@ A custom PCB shield was designed in KiCad to replace the breadboard setup. This 
 Custom footprints were created where required to match exact component dimensions. This included a potentiometer footprint due to the lack of an existing library part with the correct physical spacing, as well as a custom footprint for the display LED to ensure proper fit and alignment.
 </p>
 
-<p>
-Custom footprints were created for selected components where required, using manufacturer datasheets to ensure correct pad dimensions and mechanical fit.
-</p>
+<img src="./images/PCB_Routing.png" width="500">
+
+<img src="./images/PCB_3d_Render.png" width="600">
 
 <h2>Languages and Tools Used</h2>
 
